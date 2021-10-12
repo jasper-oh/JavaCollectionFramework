@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Adventure1 {
+public class AdventureCollection {
     public static void main(String[] args) {
 
         LearningList learningList = new LearningList();
